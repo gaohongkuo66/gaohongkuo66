@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gaohongkuo66
+- 👀 I’m interested in Backend development student skilled in Node.js.
+- 🌱 I’m currently learning building robust, scalable server-side solutions.
